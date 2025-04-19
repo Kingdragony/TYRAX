@@ -4,9 +4,9 @@
   "description": "A WhatsApp Bot Created By Arlodragon",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name TYRAX-XMD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name KHAN-MD",
     "stop": "pm2 stop TYRAX",
-    "restart": "pm2 restart TYRAX"
+    "restart": "pm2 restart KHAN-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
